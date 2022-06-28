@@ -30,5 +30,29 @@
 
 ---
 
+**Senior Software Engineer** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
+**Senior Software Engineer** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
+**Senior Software Engineer** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
+**Senior Software Engineer** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbomfonti&show_icons=true)
