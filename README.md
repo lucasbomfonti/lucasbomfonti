@@ -30,7 +30,7 @@
 
 ---
 
-### Experiência de trabalho
+### 💼 Experiência de trabalho
 Na visão geral abaixo você encontrará minhas experiências de trabalho mais recentes:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFJUHmDNfhPgA/company-logo_200_200/0/1656102175856?e=1664409600&v=beta&t=pn5lQmcQlt6qWJw5KwzvT8iAmYw2Dg7Y6ve0Ms6SqTc"/>](https://www.forsign.digital/)
