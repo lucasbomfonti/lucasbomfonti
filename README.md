@@ -13,6 +13,11 @@
 
 ----
 
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbomfonti&show_icons=true)
+
+----
+
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp"/></code>
@@ -30,7 +35,7 @@
 
 ---
 
-### 💼 Experiência de trabalho
+## 💼 Experiência de trabalho
 Na visão geral abaixo você encontrará minhas experiências de trabalho mais recentes:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFJUHmDNfhPgA/company-logo_200_200/0/1656102175856?e=1664409600&v=beta&t=pn5lQmcQlt6qWJw5KwzvT8iAmYw2Dg7Y6ve0Ms6SqTc"/>](https://www.forsign.digital/)
@@ -61,7 +66,17 @@ Linguagens & Tecnologias: `C#`, `.NET Core`, `.NET Full Framework`, `Docker`, `S
 Projetos em destaque: `E-Commerce`,
 <br/>
 
----
+----
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbomfonti&show_icons=true)
+## 🎓 Badges
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.credly.com/size/340x340/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png"/>](https://www.credly.com/badges/45afa88f-9dda-4171-a466-50398d3ad426/public_url)
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E22AQH7KLmdXPKcFg/feedshare-shrink_800/0/1579135572438?e=1659571200&v=beta&t=kNh47hhrjJhZVRXr6nMTM4g3PmpQhAnrTQDxrTFRuyA"/>](https://desenvolvedor.io/certificado/e66a1832-b28f-41e1-af18-57c60589e0c5)
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D22AQEuZYZO-h919A/feedshare-shrink_800/0/1591229713567?e=1659571200&v=beta&t=Qp6Ly3IFj0US9nubkIeI-xiJJUE9aDW6NsXQz2PYBTI"/>](https://desenvolvedor.io/certificado/a94362ad-5bd4-4d48-a697-31dc130749cc)
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D22AQHFi557h0leaw/feedshare-shrink_800/0/1591229713585?e=1659571200&v=beta&t=Pf__02lMqEvCyutQtWWYuI9UlecfraJsgLC5ViQNKsU"/>](https://desenvolvedor.io/certificado/e66a1832-b28f-41e1-af18-57c60589e0c5)
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/EF%20SET%20Certificate-1.png"/>](https://www.efset.org/cert/sJBQ3G)
