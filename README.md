@@ -30,29 +30,38 @@
 
 ---
 
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFJUHmDNfhPgA/company-logo_200_200/0/1656102175856?e=1664409600&v=beta&t=pn5lQmcQlt6qWJw5KwzvT8iAmYw2Dg7Y6ve0Ms6SqTc"/>](https://www.forsign.digital/)
 **Senior Software Engineer** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+[**Forsign**](https://www.forsign.digital/) • Contract \
+Linguagens & Tecnologias: `C#`, `.NET Core`, `.NET Full Framework`, `Docker` , `RabbitMQ` , `SqlServer` , `Microservices`, `PostgreSQL`\
+Projetos em destaque: `Forsign Digital Signature`
 <br/>
 
-**Senior Software Engineer** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQErJMMxLBtgFQ/company-logo_200_200/0/1655150371889?e=1664409600&v=beta&t=8PCcrMdnFkb39S-tS6ZhQJfVuntFwK524r_C59qy_hM"/>](https://www.linkedin.com/company/itau/)
+**Software Engineer** \
+[**Itaú Unibanco**](https://www.linkedin.com/company/itau/) • Full Time \
+Linguagens & Tecnologias: `C#`, `.NET Core`, `Docker` , `Kafka` , `SqlServer` , `Microservices`, `Angular`\
+Projetos em destaque: `Renda Fixa & Tesouraria`
 <br/>
 
-**Senior Software Engineer** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHv2rI8JxwT9g/company-logo_200_200/0/1625141188918?e=1664409600&v=beta&t=BSquleR2jrne6AKdY4oG_U2-n2csEAcRIsqlnv-5wSs"/>](https://www.ambevtech.com.br/)
+**.NET/Python Senior Software Engineer** \
+[**AmbevTech**](https://www.ambevtech.com.br/) • Full Time \
+Linguagens & Tecnologias: `C#`, `.NET Core`, `.NET Full Framework`, `Docker` , `Python`, `Django`, `SqlServer` , `PostgreSQL`\
+Projetos em destaque: `Aceleradora & MES Global(TrakSys)`
 <br/>
 
-**Senior Software Engineer** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGA6GugamGwdg/company-logo_200_200/0/1584452706815?e=1664409600&v=beta&t=-EUpveDEDs4xM9yDYl71Dohkg1avBjK67eTDoX_dKHw"/>](https://uds.com.br/)
+**Web Developer** \
+[**UDS**](https://uds.com.br/) • Full Time \
+Linguagens & Tecnologias: `C#`, `.NET Core`, `.NET Full Framework`, `Docker`, `SqlServer` , `Microservices`, `PostgreSQL`\
+Projetos em destaque: `E-Commerce`,
 <br/>
+
+---
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbomfonti&show_icons=true)
