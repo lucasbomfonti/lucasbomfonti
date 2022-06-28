@@ -1,6 +1,6 @@
-## 👨‍💻 Olá, meu nome é <strong>{Lucas}!</strong>
+## 👨‍💻 Olá, meu nome é <strong>{Lucas Bomfonti}!</strong>
 
-> Graduado em análise e desenvolvimento de sistemas e pós-graduado em Arquitetura de Soluções na Plataforma .Net (C #).
+> Sou graduado em análise e desenvolvimento de sistemas e pós-graduado em Arquitetura de Soluções na Plataforma .Net (C #).
   Trabalho com desenvolvimento há pouco mais de cinco anos, apaixonado por tecnologia e desenvolvimento web.
 
 🔭 Atualmente trabalho como Engenheiro de Software Sênior na Formalizar e-Signature, trabalhando na equipe de desenvolvimento do Forsign que visa inovar o processo de assinatura digital.
