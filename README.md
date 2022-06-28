@@ -8,7 +8,8 @@
 💬 Você pode me encontrar através das seguintes plataformas digitais!
 
 [![Linkedin: Lucas Bomfonti](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bomfonti-893503183/)](https://www.linkedin.com/in/lucas-bomfonti-893503183/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbonfonti846@gmail.com)](mailto:lucasbonfonti846@gmail.com)
+[![Instagram: Lucas Bomfonti](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucasbomfonti/)](https://www.instagram.com/lucasbomfonti/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:lucasbonfonti846@gmail.com)](mailto:lucasbonfonti846@gmail.com)
 [![GitHub Lucas Bomfonti]( https://img.shields.io/github/followers/lucasbomfonti?label=follow&style=social)](https://github.com/lucasbomfonti)
 
 ----
