@@ -15,7 +15,9 @@
 ----
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbomfonti&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbomfonti&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbomfonti&show_icons=true&theme=radical)
 
 ----
 
