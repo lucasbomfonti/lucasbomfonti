@@ -38,28 +38,28 @@
 ## 💼 Experiência de trabalho
 Na visão geral abaixo você encontrará minhas experiências de trabalho mais recentes:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFJUHmDNfhPgA/company-logo_200_200/0/1656102175856?e=1664409600&v=beta&t=pn5lQmcQlt6qWJw5KwzvT8iAmYw2Dg7Y6ve0Ms6SqTc"/>](https://www.forsign.digital/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/forsign_digital_logo.jpg"/>](https://www.forsign.digital/)
 **Senior Software Engineer** \
 [**Forsign**](https://www.forsign.digital/) • Contract \
 Linguagens & Tecnologias: `C#`, `.NET Core`, `.NET Full Framework`, `Docker` , `RabbitMQ` , `SqlServer` , `Microservices`, `PostgreSQL`\
 Projetos em destaque: `Forsign Digital Signature`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQErJMMxLBtgFQ/company-logo_200_200/0/1655150371889?e=1664409600&v=beta&t=8PCcrMdnFkb39S-tS6ZhQJfVuntFwK524r_C59qy_hM"/>](https://www.linkedin.com/company/itau/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/itau.png"/>](https://www.linkedin.com/company/itau/)
 **Software Engineer** \
 [**Itaú Unibanco**](https://www.linkedin.com/company/itau/) • Full Time \
 Linguagens & Tecnologias: `C#`, `.NET Core`, `Docker` , `Kafka` , `SqlServer` , `Microservices`, `Angular`\
 Projetos em destaque: `Renda Fixa & Tesouraria`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHv2rI8JxwT9g/company-logo_200_200/0/1625141188918?e=1664409600&v=beta&t=BSquleR2jrne6AKdY4oG_U2-n2csEAcRIsqlnv-5wSs"/>](https://www.ambevtech.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/ambevtech_logo.jpg"/>](https://www.ambevtech.com.br/)
 **.NET/Python Senior Software Engineer** \
 [**AmbevTech**](https://www.ambevtech.com.br/) • Full Time \
 Linguagens & Tecnologias: `C#`, `.NET Core`, `.NET Full Framework`, `Docker` , `Python`, `Django`, `SqlServer` , `PostgreSQL`\
 Projetos em destaque: `Aceleradora & MES Global(TrakSys)`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGA6GugamGwdg/company-logo_200_200/0/1584452706815?e=1664409600&v=beta&t=-EUpveDEDs4xM9yDYl71Dohkg1avBjK67eTDoX_dKHw"/>](https://uds.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/uds.png"/>](https://uds.com.br/)
 **Web Developer** \
 [**UDS**](https://uds.com.br/) • Full Time \
 Linguagens & Tecnologias: `C#`, `.NET Core`, `.NET Full Framework`, `Docker`, `SqlServer` , `Microservices`, `PostgreSQL`\
@@ -71,12 +71,12 @@ Projetos em destaque: `E-Commerce`,
 ## 🎓 Badges
 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.credly.com/size/340x340/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png"/>](https://www.credly.com/badges/45afa88f-9dda-4171-a466-50398d3ad426/public_url)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/image.png"/>](https://github.com/lucasbomfonti/lucasbomfonti/blob/main/image.png)
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E22AQH7KLmdXPKcFg/feedshare-shrink_800/0/1579135572438?e=1659571200&v=beta&t=kNh47hhrjJhZVRXr6nMTM4g3PmpQhAnrTQDxrTFRuyA"/>](https://desenvolvedor.io/certificado/e66a1832-b28f-41e1-af18-57c60589e0c5)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/fdb8038de165a6f5d0185e2d288b4bf67ae2e5338fa8eebbfa4dd4208c7431da.png"/>](https://github.com/lucasbomfonti/lucasbomfonti/blob/main/fdb8038de165a6f5d0185e2d288b4bf67ae2e5338fa8eebbfa4dd4208c7431da.png)
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D22AQEuZYZO-h919A/feedshare-shrink_800/0/1591229713567?e=1659571200&v=beta&t=Qp6Ly3IFj0US9nubkIeI-xiJJUE9aDW6NsXQz2PYBTI"/>](https://desenvolvedor.io/certificado/a94362ad-5bd4-4d48-a697-31dc130749cc)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/4dab8dc458489d89b7649d4284dbe5de46213b6f3fbf007fb67a42eeba01c650.png"/>](https://github.com/lucasbomfonti/lucasbomfonti/blob/main/4dab8dc458489d89b7649d4284dbe5de46213b6f3fbf007fb67a42eeba01c650.png)
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D22AQHFi557h0leaw/feedshare-shrink_800/0/1591229713585?e=1659571200&v=beta&t=Pf__02lMqEvCyutQtWWYuI9UlecfraJsgLC5ViQNKsU"/>](https://desenvolvedor.io/certificado/e66a1832-b28f-41e1-af18-57c60589e0c5)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/4dab8dc458489d89b7649d4284dbe5de46213b6f3fbf007fb67a42eeba01c650%20(1).png"/>](https://github.com/lucasbomfonti/lucasbomfonti/blob/main/4dab8dc458489d89b7649d4284dbe5de46213b6f3fbf007fb67a42eeba01c650%20(1).png)
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/lucasbomfonti/lucasbomfonti/blob/main/EF%20SET%20Certificate-1.png"/>](https://www.efset.org/cert/sJBQ3G)
